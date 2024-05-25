@@ -14,10 +14,15 @@ T002: Mostrar dígitos
   - Al hacer click en un botón de un dígito añadirlo al display.
 
 T003: Función suma
-Igual
-Función resta
-Función multiplicación
-Función división
-Memoria
+
+T004: Igual
+
+T005: Función resta
+
+T006: Función multiplicación
+
+T007: Función división
+
+T008: Memoria
 
 I0001: Revisar que no suma bien los negativos
